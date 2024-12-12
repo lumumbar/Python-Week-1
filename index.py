@@ -1,3 +1,8 @@
+def calculator():
+    """
+    A simple calculator that performs basic arithmetic operations.
+    """
+
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
     operator = input("Enter the operation (+, -, *, /): ")
